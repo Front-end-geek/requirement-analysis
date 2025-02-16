@@ -3,11 +3,12 @@ Requirement Analysis in Software Development
 This project aims to sharpen skills essential for managing and delivering robust software systems by focusing on the cornerstone of successful development: Requirement Analysis.
 
 #TASK 1: Define Requirement Analysis
-What is Requirement Analysis
+What is Requirement Analysis?
 Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed.
  This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
 
-#TASK 2:  Importance of Requirement Analysis
+#TASK 2: 
+Why is Requirement Analysis Important?
 
  Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
 Scope Definition: Clearly defines the scope of the project, which helps in preventing scope creep.
@@ -15,7 +16,8 @@ Basis for Design and Development: Provides a solid foundation for designing and 
 Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
 Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
 
-#TASK 3: KEY ACTIVITIES IN REQUIREMENT ANALYSIS.
+#TASK 3:
+Key Activities in Requirement Analysis.
 REQUIREMENT GATHERING
 Interviews: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
 Surveys/Questionnaires: Distributing surveys to collect requirements from a larger audience.
@@ -44,7 +46,7 @@ Acceptance Criteria: Defining clear acceptance criteria for each requirement to 
 Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
 TASK 4:
-TYPES OF REQUIREMENTS
+Types of Requirements.
 
 Functional Requirements
 Hotel management: hotel managers can manage hotel information. In addition, hotel managers can access and update hotel details.
@@ -69,7 +71,7 @@ Usability
 Deliver smooth and intuitive UI/UX for customer and manager portals.
 
 TASK 5
-USE CASE DIAGRAMS
+Use Case Diagrams.
 Use case diagrams show how different users (actors) interact with the system to 
 achieve specific goals (use cases).
 
@@ -82,7 +84,7 @@ Case diagram
 https://drive.google.com/file/d/1Lw0y5enDQRk-nvDkKpFOxRTc7B6FrRrp/view?usp=drivesdk
 
 TASK 6:
-ACCEPTANCE CRITERIA
+Acceptance Criteria.
 Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
 Importance of acceptance criteria in requirement analysis
 Ensure all parties have a clear understanding of feature requirements.
